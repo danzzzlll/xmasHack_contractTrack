@@ -10,7 +10,8 @@ tg_bot
 │
 notebooks
 └───requirements.txt
-│   file012.txt
+│   train_model.ipynb
+|   dataset.csv
 ```
 ## Fownload prepared model for tg_bot
 if you want to start tg_bot, you should download model from https://drive.google.com/file/d/1ZDgpfkQyantC6TTMWLRUwF8DzLqqzhot/view
