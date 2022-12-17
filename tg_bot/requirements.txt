@@ -1,0 +1,13 @@
+pyTelegramBotAPI
+torch
+pandas
+tqdm
+sklearn
+sentence_transformers
+transformers
+nltk
+docx2pdf
+aspose-words
+wordcloud
+PyPDF2
+pymorphy2
