@@ -9,7 +9,7 @@ tg_bot
 │   pytorch_model.bin
 |   requirements.txt
 │
-└───notebooks
-│   requirements.txt
+notebooks
+└───requirements.txt
 │   file012.txt
 ```
