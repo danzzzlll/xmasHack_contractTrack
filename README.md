@@ -15,7 +15,9 @@ notebooks
 |   files_converter.ipynb
 ```
 Для приведения файлов к pdf-формату и сохранения их - files_converter
+
 Для обучения модели - train_model
+
 Код для телеграм-бота находится в папке tg_bot
 ```
 ## Download prepared model for tg_bot
