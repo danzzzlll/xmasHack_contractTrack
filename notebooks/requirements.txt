@@ -1,0 +1,12 @@
+docx2pdf
+aspose-words
+PyPDF2
+pandas
+torch
+numpy
+tqdm
+sklearn
+seaborn
+matplotlib
+transformers
+sentence_transformers
